@@ -81,7 +81,7 @@ sections:
           - dolor sit amet
         align: right
         image_alt: lorem-ipsum
-        image_position: left
+        image_position: right
         actions: []
         type: feature
         image: images/feature.svg
