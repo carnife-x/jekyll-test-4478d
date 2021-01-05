@@ -57,7 +57,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: right
         actions: []
-      - title: SU
+      - title: SUB
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
