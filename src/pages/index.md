@@ -70,7 +70,7 @@ sections:
   - type: blog_feed_section
     title: Team
     show_recent: true
-    recent_count: 3
+    recent_count: 9
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
