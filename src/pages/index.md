@@ -68,7 +68,7 @@ sections:
         image_position: right
         actions: []
   - type: blog_feed_section
-    title: What's New
+    title: Team
     show_recent: true
     recent_count: 3
   - type: cta_section
