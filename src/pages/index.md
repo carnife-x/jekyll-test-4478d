@@ -84,6 +84,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/feature.svg
   - type: blog_feed_section
     title: Core Team
     show_recent: true
