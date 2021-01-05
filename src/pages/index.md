@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: lorem-ipsum
+  - title: DECILE
     subtitle: lorem-ipsum
     actions: []
     align: center
