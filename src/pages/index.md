@@ -2,7 +2,7 @@
 title: Home
 sections:
   - title: DECILE
-    subtitle: lorem-ipsum
+    subtitle: Data Efficient Machine Learning
     actions: []
     align: center
     image_alt: lorem-ipsum
