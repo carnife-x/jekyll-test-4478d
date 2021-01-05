@@ -12,7 +12,6 @@ excerpt: >-
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
   affecit, quanto.
 template: post
-author: src/data/team/gordon-norman.yaml
 image: images/5.png
 ---
 
