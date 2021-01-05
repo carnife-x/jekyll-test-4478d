@@ -21,7 +21,7 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: Learn More
-        url: ww
+        url: 'https://www.google.com/'
         style: primary
     align: left
     image: images/hero.svg
