@@ -68,7 +68,7 @@ sections:
         image_position: right
         actions: []
   - type: blog_feed_section
-    title: Team
+    title: Core Team
     show_recent: true
     recent_count: 9
 template: advanced
