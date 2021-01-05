@@ -24,7 +24,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_alt": "nn"
     },
     "footer": {
         "has_nav": true,
