@@ -21,7 +21,7 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: Learn More
-        url: /features
+        url: ww
         style: primary
     align: left
     image: images/hero.svg
